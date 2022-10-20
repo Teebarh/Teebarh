@@ -1,5 +1,6 @@
-## HI THERE👋!
-I’m Toyibat (Teebarh) Adele, a Mechatronics Engineering and Computer Science undergraduate. I'm also a Technical writer, Data Scientist (in training) and Open Source contributor. You can reach out to me on [Twitter](https://www.twitter.com/teebarh_) or check out most of my profiles on my [Linktree](https://linktr.ee/teebarh).
+# Toyibat Adele
+
+I’m Toyibat (Teebarh) Adele, a Mechatronics Engineering and Computer Science undergraduate. I'm also a Technical writer, Data Scientist (in training) and Open Source contributor. You can check out most of my profiles on my [Linktree](https://linktr.ee/teebarh).
 
 [![Teebarh's GitHub stats](https://github-readme-stats.vercel.app/api?username=teebarh)](https://github.com/teebarh/github-readme-stats)
 
