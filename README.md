@@ -1,6 +1,12 @@
 ## HI THERE👋!
 I’m Toyibat (Teebarh) Adele, a Mechatronics Engineering and Computer Science undergraduate. I'm also a Technical writer, Data Scientist (in training) and Open Source contributor. You can reach out to me on [Twitter](https://www.twitter.com/teebarh_) or check out most of my profiles on my [Linktree](https://linktr.ee/teebarh).
 
+[![Teebarh's GitHub stats](https://github-readme-stats.vercel.app/api?username=teebarh)](https://github.com/teebarh/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/teebarh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ToyibatAdele/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/teebarh_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/teebarh_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/toyibatadele)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](@Toyibat_Adele)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='hashnode' height='40'>](ToyibatAdele)  
+
+
+
 
 <!---
 Teebarh/Teebarh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
