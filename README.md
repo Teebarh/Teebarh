@@ -1,7 +1,7 @@
 # Hello👋🏾!
 
 I’m Toyibat (Teebarh) Adele, 
-- A Mechatronics Engineering and Computer Science undergraduate,
+- A Mechatronics Engineering undergraduate,
 - Technical writer,
 - Data Scientist (in training),
 - Open Source contributor. 
